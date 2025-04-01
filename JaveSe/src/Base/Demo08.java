@@ -1,3 +1,5 @@
+package Base;
+
 public class Demo08 {
 
     // 常量 // 一旦初始化后不再变化的，不可改变，使用final关键字

@@ -1,4 +1,6 @@
-public class Demo2 { 
+package Base;
+
+public class Demo2 {
     public static void main(String[] args) {
         /*
          *

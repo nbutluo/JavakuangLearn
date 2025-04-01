@@ -1,3 +1,5 @@
+package Base;
+
 public class Demo07 {
 
     // 实例变量
