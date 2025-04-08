@@ -1,7 +1,7 @@
-package Operator;
+package com.kuang.www.Operator;
 
-public class Demo05 {
-    // 逻辑运算符
+public class Demo06 {
+    // 位运算符
     public static void main(String[] args) {
         boolean a = true;
         boolean b = false;

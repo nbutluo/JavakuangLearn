@@ -1,4 +1,4 @@
-package Base;
+package com.kuang.www.Base;
 
 public class Demo2 {
     public static void main(String[] args) {

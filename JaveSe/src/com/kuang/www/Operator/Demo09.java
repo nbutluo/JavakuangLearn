@@ -1,4 +1,4 @@
-package Operator;
+package com.kuang.www.Operator;
 
 public class Demo09 {
     public static void main(String[] args) {
