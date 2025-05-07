@@ -6,6 +6,10 @@ public class Application {
         Student stu = new Student();
 
         stu.say();
-        System.out.println(stu.getMoney());
+//        System.out.println(stu.getMoney());
+
+        int money =  stu.getMoney();
+        System.out.println("获得的钱财为"+money);
+
     }
 }
